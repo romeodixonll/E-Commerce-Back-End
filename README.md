@@ -18,6 +18,13 @@ Cloning the repo from Github. Then install Node.js. Run "npm i" in terminal to g
 ## Usage
 This application is running under mysql as a local host, you can modify the .env file with your own user/password to start the application.
 
+run mysql terminal at project source location source db/schema.sql
+npm i
+npm run seed
+npm start
+use Insomnia to view results
+
+
 https://user-images.githubusercontent.com/95494071/154820261-f97fca4e-3724-4ed7-aec8-7d47fa2bb66b.mp4
 
 
