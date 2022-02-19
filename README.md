@@ -16,7 +16,7 @@ This application is a backend application servicing front end routes and using M
 Cloning the repo from Github. Then install Node.js. Run "npm i" in terminal to get packages.
 
 ## Usage
-This application is running under mysql as a local host, you can modify the .env file with your own user/password to start the application.
+Modify the .env file with your own user/password for MySQL to start the application.
 
 run mysql terminal at project source location source db/schema.sql<br/>
 npm i<br/>
